@@ -1,2 +1,2 @@
 # Individual-small-project
-A small signup and sign-in
+A small signup and sign-in small project
